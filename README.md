@@ -8,3 +8,15 @@
 | 2020+       | Foundation Models          | GPT-3/4, DALL·E, CLIP, LLMs   | OpenAI, HuggingFace, LangChain |
 
 [] Linear Regression and logistic regression
+
+
+1. Scalars, Vectors, Matrices, and Tensors
+2. Matrix Operations
+3. Systems of Linear Equations
+4. Linear Transformations
+5. Eigenvalues and Eigenvectors
+6. Singular Value Decomposition (SVD)
+7. Norms and Distance Metrics
+8. Orthogonality and Orthonormality
+9. Projections
+10. Rank and Null Space
